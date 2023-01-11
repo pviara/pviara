@@ -6,4 +6,4 @@ I'm a **web developer** and I enjoy **writing code**
 - My personal **projects** are **pinned** and **available** below
 - I've written a few **articles** that you can read on [Medium](https://medium.com/@pierre.viara)
 
-~ _also on [LinkedIn](https://www.linkedin.com/in/pierre-viara)_
+~ _also on [LinkedIn](https://www.linkedin.com/in/pierre-viara) and [Malt](https://www.malt.fr/profile/pierreviara)_
