@@ -2,6 +2,8 @@ Hi! 👋
 
 I'm a **web developer** specialized in the JavaScript ecosystem. 👨‍💻 I love to craft high-quality software through meticulous testing and effective coding practices.
 
+---
+
 Here are the services I have to offer :
 
 🎨 **Frontend Development :** Creating visually engaging and responsive frontend interfaces using Angular
