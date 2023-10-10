@@ -1,4 +1,3 @@
-## Hi !
 I'm a web developer specialized in the JavaScript ecosystem. 👨‍💻 I love to craft high-quality software through meticulous testing and effective coding practices.
 
 
@@ -18,13 +17,13 @@ Here are the services I have to offer :
 
 
 I'm also comfortable using different languages and frameworks such as :
-· TypeScript
-· JavaScript
-· NestJS
-· MongoDB
-· PostgreSQL
-· Angular
-· And some other skills that are detailed above.
+- TypeScript
+- JavaScript
+- NestJS
+- MongoDB
+- PostgreSQL
+- Angular
+- And some other skills that are detailed above.
 
 Both my scholarship and my career have taught me to be a team player. However I’m totally capable of working on my own if necessary.
 
