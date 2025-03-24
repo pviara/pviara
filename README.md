@@ -12,7 +12,8 @@ I'm a **full stack** web developer specialized in the **TypeScript/JavaScript** 
 <details>
   <summary>🏰 Garrison</summary>
   
-  <img src="https://github.com/user-attachments/assets/081d0567-3d83-48af-aead-239116f1693c" width="450"/><img src="https://github.com/user-attachments/assets/881df41b-9297-4397-8cfd-3f8a10673540" width="450"/>
+  <img src="https://github.com/user-attachments/assets/081d0567-3d83-48af-aead-239116f1693c" width="350"/>
+  <img src="https://github.com/user-attachments/assets/881df41b-9297-4397-8cfd-3f8a10673540" width="350"/>
 </details>
 
 <details>
