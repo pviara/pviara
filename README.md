@@ -1,7 +1,4 @@
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="62" height="62">
-</picture>
+<img src="https://github.com/user-attachments/assets/64f43c02-5f27-4332-bfe3-c804d90199f1" height="62" width="62"/>
 
 ### Hi there!
 I'm a **full stack** web developer specialized in the **TypeScript/JavaScript** ecosystem.
