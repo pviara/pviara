@@ -22,10 +22,3 @@ I'm a **full stack** web developer specialized in the **TypeScript/JavaScript** 
   <img src="https://github.com/user-attachments/assets/ee0fac94-5d6b-4774-9294-07033b988882" width="216"/>
   <img src="https://github.com/user-attachments/assets/5ac96a05-0b06-4474-aaec-b4ff081fba0a" width="216"/>
 </details>
-
-<details>
-  <summary>💰 PayPot</summary>
-  
-  <img src="https://github.com/user-attachments/assets/45fc4538-ff3b-493d-b06a-f066c624bfac" width="216"/>
-  <img src="https://github.com/user-attachments/assets/1389d1b4-cb85-4a42-932c-2d9e3908fe2c" width="216"/>
-</details>
