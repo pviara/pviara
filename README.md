@@ -39,10 +39,10 @@ You'll find all the code in the following repositories:
 </details> 
 
 <details>
-  <summary>🧌 Witcher Bestiary</summary>
+  <summary>🧌 Bestiary</summary>
 
 #### Description
-A web application that imitates The Witcher 3 in-game bestiary interface.
+A completely responsive, multilingual web application that imitates The Witcher 3 in-game bestiary interface.
 
 #### Main features
 - Search through the entire collection of monsters
@@ -56,6 +56,13 @@ A web application that imitates The Witcher 3 in-game bestiary interface.
 /         |  /
 :-------------------------:|:-------------------------:
 <img width="741" height="428" src="https://github.com/user-attachments/assets/608ade51-295e-4ca8-be2f-2e7a52e6506f" /> | <img width="741" height="428" src="https://github.com/user-attachments/assets/fa28ee79-0da5-43ae-ae57-093f6b1bd1bc" />
+
+- Use your mobile device to make your research
+
+/         |  /
+:-------------------------:|:-------------------------:
+<img width="285" height="646" src="https://github.com/user-attachments/assets/222d752e-a793-441e-b0ca-82fb99ba52a0" /> | <img width="286" height="646" src="https://github.com/user-attachments/assets/81c0a372-52fc-4808-a75d-44c31a1c500e" />
+
 
 ### Code
 > ⚠️ This project is a few years old, so the code doesn't reflect how I write code today.
