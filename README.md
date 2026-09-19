@@ -1,6 +1,6 @@
 <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1faa9/512.gif" alt="🤖" width="38" height="38">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="42" height="42">
 </picture>
 
 ### Hi there!
