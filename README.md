@@ -1,8 +1,3 @@
-<picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="👾" width="36" height="36">
-</picture>
-
 ### Hi there!
 I'm a full-stack web developer specialized in TypeScript/JavaScript. I’m currently working @Hermès, but you'll find the rest of my professional background on LinkedIn and in my resume. Feel free to reach out if you have any questions!
 
@@ -11,7 +6,15 @@ I'm a full-stack web developer specialized in TypeScript/JavaScript. I’m curre
 Outside of work, I love building things. This GitHub is mostly a showcase of the side projects I've kept working on over the years, in my free time. Here are a few highlights: 👇
 
 <details>
-  <summary>🏰 Garrison</summary>
+  <summary>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕" width="30" height="30">
+    </picture>
+  </summary>
+
+#### Name
+Garrison
 
 #### Description
 A browser-based strategy game set in the Warcraft III universe. My first side-project to make it to production. Seeing friends actually play it was incredibly rewarding.
@@ -44,7 +47,15 @@ You'll find all the code in the following repositories:
 </details> 
 
 <details>
-  <summary>🧌 Bestiary</summary>
+  <summary>
+    <picture>
+      <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f410/512.webp" type="image/webp">
+      <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f410/512.gif" alt="🐐" width="30" height="30">
+    </picture>
+  </summary>
+
+#### Name
+The Witcher III Bestiary
 
 #### Description
 A completely responsive, multilingual web application that imitates The Witcher 3 in-game bestiary interface.
