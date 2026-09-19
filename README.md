@@ -91,9 +91,9 @@ Outside of work, I love building things. This GitHub is mostly a showcase of the
 
   ### Main features
   
-  / | / | / | / | / | /
-  :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-  <img width="285" height="646" alt="LANDING-PAGE" src="https://github.com/user-attachments/assets/57781ade-573d-453d-8afa-e669575a44f0" /> | <img width="285" height="646" alt="app-store-5" src="https://github.com/user-attachments/assets/20da6875-2c66-4ee4-9341-8386ca2eabbd" /> | <img width="285" height="646" alt="app-store-4" src="https://github.com/user-attachments/assets/f7a34e7f-8303-490c-b4c7-2d25e8fd98ee" /> | <img width="285" height="646" alt="app-store-3" src="https://github.com/user-attachments/assets/a14028f6-238b-44a2-8423-abdf64c4cbb9" /> | <img width="285" height="646" alt="app-store-2" src="https://github.com/user-attachments/assets/291eaf8a-cc69-4c98-a010-9081a076594d" /> | <img width="285" height="646" alt="app-store-1" src="https://github.com/user-attachments/assets/d05c3bc0-460a-4dae-a558-ed857933a6fd" />
+  / | / | / | / | /
+  :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+   <img width="285" height="646" alt="app-store-1" src="https://github.com/user-attachments/assets/d05c3bc0-460a-4dae-a558-ed857933a6fd" /> | <img width="285" height="646" alt="app-store-5" src="https://github.com/user-attachments/assets/20da6875-2c66-4ee4-9341-8386ca2eabbd" /> | <img width="285" height="646" alt="app-store-2" src="https://github.com/user-attachments/assets/291eaf8a-cc69-4c98-a010-9081a076594d" /> | <img width="285" height="646" alt="app-store-3" src="https://github.com/user-attachments/assets/a14028f6-238b-44a2-8423-abdf64c4cbb9" /> | <img width="285" height="646" alt="app-store-4" src="https://github.com/user-attachments/assets/f7a34e7f-8303-490c-b4c7-2d25e8fd98ee" />
 
 </details>
 
