@@ -55,7 +55,7 @@ A web application that imitates The Witcher 3 in-game bestiary interface.
 
 /         |  /
 :-------------------------:|:-------------------------:
-<img width="741" height="428" src="https://github.com/user-attachments/assets/34120b6a-a5d2-439f-a869-ab32fea060a1" /> | <img width="741" height="428" src="https://github.com/user-attachments/assets/fa28ee79-0da5-43ae-ae57-093f6b1bd1bc" />
+<img width="741" height="428" src="https://github.com/user-attachments/assets/608ade51-295e-4ca8-be2f-2e7a52e6506f" /> | <img width="741" height="428" src="https://github.com/user-attachments/assets/fa28ee79-0da5-43ae-ae57-093f6b1bd1bc" />
 
 ### Code
 > ⚠️ This project is a few years old, so the code doesn't reflect how I write code today.
@@ -63,4 +63,5 @@ A web application that imitates The Witcher 3 in-game bestiary interface.
 You'll find all the code in the following repositories:
 - 🔗 [witcher-server](https://github.com/pviara/witcher-server)
 - 🔗 [witcher-app](https://github.com/pviara/witcher-app)
-</details> 
+</details>
+
