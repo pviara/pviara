@@ -6,6 +6,8 @@
 ### Hi there!
 I'm a full-stack web developer specialized in **TypeScript/JavaScript**. I’m currently working [@Hermès](https://www.hermes.com/fr/fr/), but you'll find the rest of my professional background on [LinkedIn](https://www.linkedin.com/in/pierre-viara) and in my [resume](https://github.com/user-attachments/files/32415438/Resume-Pierre_Viara.pdf). Feel free to reach out if you have any questions!
 
+![TypeScript](https://img.shields.io/badge/TypeScript-282828) ![JavaScript](https://img.shields.io/badge/JavaScript-282828) ![Express](https://img.shields.io/badge/Express-282828) ![NestJS](https://img.shields.io/badge/NestJS-282828) ![Angular](https://img.shields.io/badge/Angular-282828)  ![MongoDB](https://img.shields.io/badge/MongoDB-282828) ![MySQL](https://img.shields.io/badge/MySQL-282828) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282828) ![PostgreSQL](https://img.shields.io/badge/Docker-282828) ![HTML](https://img.shields.io/badge/HTML-282828) ![CSS](https://img.shields.io/badge/CSS-282828) 
+
 ---
 
 Outside of work, I love building things. This GitHub is mostly a showcase of the side projects I've kept working on over the years, in my free time. Here are a few highlights:
