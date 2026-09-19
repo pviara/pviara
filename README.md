@@ -1,3 +1,8 @@
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47e/512.gif" alt="👾" width="32" height="32">
+</picture>
+
 ### Hi there!
 I'm a full-stack web developer specialized in TypeScript/JavaScript. I’m currently working @Hermès, but you'll find the rest of my professional background on LinkedIn and in my resume. Feel free to reach out if you have any questions!
 
