@@ -1,9 +1,39 @@
-<img src="https://github.com/user-attachments/assets/64f43c02-5f27-4332-bfe3-c804d90199f1" height="62" width="62"/>
-
 ### Hi there!
-I'm a **full stack** web developer specialized in the **TypeScript/JavaScript** ecosystem.
-- 🏢 I'm currently working [@Hermès](https://www.hermes.com/fr/fr/) as a software engineer
-- 🚀 Building two mobile apps: a Tricount clone and an anti-fast-fashion search engine
+I'm a full-stack web developer specialized in TypeScript/JavaScript. I’m currently working @Hermès, but you'll find the rest of my professional background on LinkedIn and in my resume. Feel free to reach out if you have any questions!
 
-![TypeScript](https://img.shields.io/badge/TypeScript-282828) ![JavaScript](https://img.shields.io/badge/JavaScript-282828) ![Express](https://img.shields.io/badge/Express-282828) ![NestJS](https://img.shields.io/badge/NestJS-282828) ![Angular](https://img.shields.io/badge/Angular-282828)  ![MongoDB](https://img.shields.io/badge/MongoDB-282828) ![MySQL](https://img.shields.io/badge/MySQL-282828) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282828) ![PostgreSQL](https://img.shields.io/badge/Docker-282828) ![HTML](https://img.shields.io/badge/HTML-282828) ![CSS](https://img.shields.io/badge/CSS-282828) 
+---
 
+Outside of work, I love building things. This GitHub is mostly a showcase of the side projects I've kept working on over the years, in my free time. Here are a few highlights: 👇
+
+<details>
+  <summary>🏰 Garrison</summary>
+
+#### Description
+A browser-based strategy game set in the Warcraft III universe. My first side-project to make it to production. Seeing friends actually play it was incredibly rewarding.
+
+#### Main features
+- Choose your faction
+
+Alliance          |  Horde
+:-------------------------:|:-------------------------:
+<img width="841" height="428" src="https://github.com/user-attachments/assets/24142643-1cf4-419a-a141-5f16a984b9bc" /> | <img width="841" height="428" src="https://github.com/user-attachments/assets/cab8478a-a387-4fd2-a5e6-207c62a9b5fd" />
+
+- Set up your base in a chosen zone
+
+Alliance          |  Horde
+:-------------------------:|:-------------------------:
+<img width="741" height="428" src="https://github.com/user-attachments/assets/556bec90-7b17-494a-b9d2-1c8f2801f66d" /> | <img width="741" height="428" src="https://github.com/user-attachments/assets/d08beda3-d13c-4094-9a70-fc8e8b988f09" />
+
+- Harvest resources, build structures, and train units
+
+Alliance          |  Horde
+:-------------------------:|:-------------------------:
+<img width="741" height="428" src="https://github.com/user-attachments/assets/dfa670ec-1102-44ac-9b22-22eaa26a91ea" /> | <img width="741" height="428" src="https://github.com/user-attachments/assets/d5f5215d-e32f-4df7-a51c-73ac6950fa2e" />
+
+### Code
+> ⚠️ This project is a few years old, so the code doesn't reflect how I write code today.
+
+You'll find all the code in the following repositories:
+- 🔗 [garrison-server](https://github.com/pviara/garrison-server)
+- 🔗 [garrison-app](https://github.com/pviara/garrison-app)
+</details> 
