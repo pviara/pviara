@@ -72,7 +72,6 @@ Outside of work, I love building things. This GitHub is mostly a showcase of the
   :-------------------------:|:-------------------------:
   <img width="285" height="646" src="https://github.com/user-attachments/assets/222d752e-a793-441e-b0ca-82fb99ba52a0" /> | <img width="286" height="646" src="https://github.com/user-attachments/assets/81c0a372-52fc-4808-a75d-44c31a1c500e" />
   
-  
   ### Code
   > ⚠️ This project is a few years old, so the code doesn't reflect how I write code today.
   
@@ -95,5 +94,11 @@ Outside of work, I love building things. This GitHub is mostly a showcase of the
   :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
    <img width="285" height="646" alt="app-store-1" src="https://github.com/user-attachments/assets/d05c3bc0-460a-4dae-a558-ed857933a6fd" /> | <img width="285" height="646" alt="app-store-5" src="https://github.com/user-attachments/assets/20da6875-2c66-4ee4-9341-8386ca2eabbd" /> | <img width="285" height="646" alt="app-store-2" src="https://github.com/user-attachments/assets/291eaf8a-cc69-4c98-a010-9081a076594d" /> | <img width="285" height="646" alt="app-store-3" src="https://github.com/user-attachments/assets/a14028f6-238b-44a2-8423-abdf64c4cbb9" /> | <img width="285" height="646" alt="app-store-4" src="https://github.com/user-attachments/assets/f7a34e7f-8303-490c-b4c7-2d25e8fd98ee" />
 
+### Code
+  >  This project is recent enough to almost reflect how I write code today.
+  
+  You'll find all the code in the following repositories:
+  - 🔗 [paypotes-server](https://github.com/pviara/paypotes-server)
+  - 🔗 [paypotes-app](https://github.com/pviara/paypotes-app)
 </details>
 
