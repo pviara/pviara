@@ -4,7 +4,7 @@
 </picture>
 
 ### Hi there!
-I'm a full-stack web developer specialized in TypeScript/JavaScript. I’m currently working @Hermès, but you'll find the rest of my professional background on LinkedIn and in my resume. Feel free to reach out if you have any questions!
+I'm a full-stack web developer specialized in **TypeScript/JavaScript**. I’m currently working [@Hermès](https://www.hermes.com/fr/fr/), but you'll find the rest of my professional background on [LinkedIn](https://www.linkedin.com/in/pierre-viara) and in my [resume](https://github.com/user-attachments/files/32415438/Resume-Pierre_Viara.pdf). Feel free to reach out if you have any questions!
 
 ---
 
